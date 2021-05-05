@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class CharacterAudioPlayer : MonoBehaviour
 {
+    [SerializeField] GameObject scoreScreen;
     [SerializeField] AudioSource thinkingAudioSource;
     [SerializeField] GameObject requirementsWindow;
 
@@ -15,5 +16,9 @@ public class CharacterAudioPlayer : MonoBehaviour
     public void ShowRequirementsWindow()
     {
         requirementsWindow.SetActive(true);
+    }
+    public void ShowScoreScreen()
+    {
+        scoreScreen.SetActive(true);
     }
 }
