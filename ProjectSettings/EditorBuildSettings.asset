@@ -15,12 +15,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Days/Day 2.unity
     guid: cf06790aa6664c749b06a580a55d6a79
   - enabled: 1
-    path: Assets/Scenes/Days/Day 3.unity
-    guid: e4981ed11bc208140a5ce754acc47754
-  - enabled: 1
-    path: Assets/Scenes/Days/Day 4.unity
-    guid: cd0105fea66bc40408896bb8436aaed2
-  - enabled: 1
     path: Assets/Scenes/Days/Day 5.unity
     guid: 48a294b62d32661408a3da70fa0c563e
   m_configObjects: {}

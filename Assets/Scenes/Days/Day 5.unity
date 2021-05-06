@@ -7394,7 +7394,7 @@ PrefabInstance:
         type: 3}
       propertyPath: nextLevelButton
       value: 
-      objectReference: {fileID: 7241261529788111563}
+      objectReference: {fileID: 0}
     - target: {fileID: 7241261528448731055, guid: dd76415a1dc5cad44a4b482615e3f8cb,
         type: 3}
       propertyPath: amountOfMoney
@@ -7997,12 +7997,6 @@ PrefabInstance:
 --- !u!1 &7241261529788111562 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 809814649, guid: dd76415a1dc5cad44a4b482615e3f8cb,
-    type: 3}
-  m_PrefabInstance: {fileID: 7241261529788111561}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &7241261529788111563 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 7409850148627471683, guid: dd76415a1dc5cad44a4b482615e3f8cb,
     type: 3}
   m_PrefabInstance: {fileID: 7241261529788111561}
   m_PrefabAsset: {fileID: 0}
